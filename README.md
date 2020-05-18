@@ -8,9 +8,9 @@
 # **`Output`**
 ### here is some outputs of the program 
 ### 1.
-![](out/out_1.png)
+![](out/out_1.PNG)
 ### 2.
-![](out/real_imaginary.png)
+![](out/real_imaginary.PNG)
 ### For more output and logging file out see out file.
 
 
